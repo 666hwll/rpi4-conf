@@ -9,6 +9,7 @@
 
 # Enable audio (loads snd_bcm2835)
 dtparam=audio=on
+audio_pwm_mode=1
 
 # Additional overlays and parameters are documented
 # /boot/firmware/overlays/README
@@ -18,6 +19,7 @@ camera_auto_detect=0
 
 # Automatically load overlays for detected DSI displays
 display_auto_detect=0
+ignore_lcd=1
 
 # Automatically load initramfs files, if found
 auto_initramfs=1
