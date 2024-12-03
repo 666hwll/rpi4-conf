@@ -6,6 +6,8 @@
 this config provides a overclocked pi, more allocated vram
 
 and a powerbutton using gpio-shutdown on gpio3
+the fan uses the second 5V Pin in the first row and the ground pin next to it
+--> always on, as long as there is power
 ![Gpio-Header](IMG_0725.png)
 ![and where it's placed](IMG_0726.png)
 
