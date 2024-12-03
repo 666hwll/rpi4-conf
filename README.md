@@ -17,4 +17,5 @@ that i how i build a powerbutton using a button with a digital signal lane, V An
 ![Button from the keyestudio smart home starter kit](IMG_0635.jpeg)
 
 the button module is from the keyestudio smart home kit
-
+--> the button only works this way, because it is getting 3V to V(U) and gpio3 as S
+(Ground is Ground ofc)
