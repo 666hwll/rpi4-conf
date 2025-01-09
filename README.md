@@ -20,4 +20,4 @@ the button module is from the keyestudio smart home kit
 --> the button only works this way, because it is getting 3V to V(U) and gpio3 as S
 (Ground is Ground ofc)
 
-Inspiration: ![Source](https://www.stoffl.net/2020/03/31/how-to-raspberry-pi-4-gpio-ein-und-ausschalten-power-on-off-button/)
+Inspiration: <https://www.stoffl.net/2020/03/31/how-to-raspberry-pi-4-gpio-ein-und-ausschalten-power-on-off-button/>
